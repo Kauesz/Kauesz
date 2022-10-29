@@ -14,6 +14,6 @@
 
 ##
     
-      ![Snake animation](https://github.com/Kauesz/Kauesz/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Kauesz/Kauesz/blob/output/github-contribution-grid-snake.svg)
  
 </div>
